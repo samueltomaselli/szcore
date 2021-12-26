@@ -13,5 +13,5 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="king-shark" src="https://media.tenor.com/images/c69e2950f2c689d5c80f24ca4e9d845a/tenor.gif">
+  <img align="right" alt="showtime" src="https://giffiles.alphacoders.com/151/151337.gif">
 </div>
