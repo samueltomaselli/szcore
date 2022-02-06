@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🌱 Estudando HTML, CSS, JavaScript e Arduino.
+- 🌱 Estudando HTML, CSS, JavaScript.
 
  <div>
   <a href="https://github.com/szcore">
