@@ -1,6 +1,6 @@
-### Olá 👋
+### Hi 👋
 
-- 🌱 Estudando HTML, CSS, JavaScript.
+- 🌱 Studying HTML, CSS and JavaScript.
 
  <div>
   <a href="https://github.com/szcore">
