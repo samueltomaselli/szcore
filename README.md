@@ -1,7 +1,7 @@
 ### Hi 👋 I am Samuel 
 I am a web developer. 
 
-- 🌐 Visit my [porfolio website]() for complete background and contact.
+- 🌐 Visit my [porfolio website]() (in creation) for complete background and contact.
 - ✍️ [Linkedin Profile](https://www.linkedin.com/in/samuel-tomaselli-637924224/)
 
 ---
